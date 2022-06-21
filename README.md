@@ -1,4 +1,4 @@
-Install bahan² 
+### Install bahan² ###
 
 $ pkg update && pkg upgrade
 
@@ -18,6 +18,8 @@ $ pip2 install rich
 
 $ pip2 install futures
 
+$ pip2 install stdiomask
+
 $ pip install requests
 
 $ pip install bs4
@@ -27,6 +29,8 @@ $ pip install rich
 $ pip install mechanize
 
 $ pip install futures
+
+$ pip install stdiomask
 
 ### FAST RUN ###
 
