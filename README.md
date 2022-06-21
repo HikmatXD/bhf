@@ -34,9 +34,9 @@ $ pip install stdiomask
 
 ### FAST RUN ###
 
-$ git clone https://github.com/HikmatXD/BFH
+$ git clone https://github.com/HikmatXD/bhf
 
-$ cd BFH
+$ cd bhf
 
 $ git pull
 
